@@ -1,0 +1,10 @@
+2. افتح `Tools → Board → Boards Manager`، ابحث عن `esp32` ثم ثبّت الحزمة.
+3. أعد تشغيل Arduino IDE.
+
+---
+
+## 📥 تحميل الكود ورفعه إلى ESP32
+
+```bash
+git clone https://github.com/ibrahimmustafacv/VALAK.git
+cd VALAK
